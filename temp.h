@@ -11,7 +11,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <SDL/SDL.h>
+//#include <SDL/SDL.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <math.h>
