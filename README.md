@@ -37,16 +37,26 @@ very simple and I highly encourage you to look it up Online.
 
 Here is a list of commands my program supports
 
+```
 t = one time step
+
 f = ten time steps
+
 r = zoom out (need to do this to see Cup.txt clearly)
+
 e = zoom in
+
 p = print file with current temps (prints to file name ending in the current time)
+
 1 = full screen
+
 2 = exit full screen
+
 arrows = rotate
+
 w,a,s,d = move around (doesn't work well, stick with arrow keys)
 
+```
 
 good luck :)
 
