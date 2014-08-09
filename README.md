@@ -87,9 +87,10 @@ and to exacute
 ```
 ./cude
 ```
-you will need opengl 3.0 and glut.
-
-
+you will need opengl 3.0 and glut. On Ubuntu all you need to do is run
+```
+sudo apt-get install freeglut3
+```
 
 
 
