@@ -3,19 +3,15 @@
 // Author:      Oliver Hennigh
 // Created:     6/1/2013
 // Project:     Diffution simulator
-// Description: Creates an OpenGL window and draws room
-//              That the user can rotate using the arrow keys
+// Description: Creates an OpenGL window and object
+//              
 // 
 // Controls:    Left Arrow  - Rotate Left
 //              Right Arrow - Rotate Right
 //              Up Arrow    - Rotate Up
 //              Down Arrow  - Rotate Down     
-
 //
-// This was my first open gl project and it has many many problems. I have droped 
-// this project for the monent and hope to return to it when my skills improve.
 //
-  
 //
 
 // ----------------------------------------------------------
