@@ -89,7 +89,7 @@ and to exacute
 ```
 you will need opengl 3.0 and glut. On Ubuntu all you need to do is run
 ```
-sudo apt-get install freeglut3
+sudo apt-get install freeglut3-dev
 ```
 
 
